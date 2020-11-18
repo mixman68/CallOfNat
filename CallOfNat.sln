@@ -1,0 +1,41 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallOfNat.Interfaces", "CallOfNat.Interfaces\CallOfNat.Interfaces.csproj", "{2B149559-7C00-4CE4-8290-9BF31BCD3863}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallOfNat.Game.TestGame", "CallOfNat.Game.TestGame\CallOfNat.Game.TestGame.csproj", "{2EC9FD10-B352-4B8A-83A0-C2CD72090C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallOfNat.Game.Warzone", "CallOfNat.Game.Warzone\CallOfNat.Game.Warzone.csproj", "{42EECF2A-5518-469D-899E-CBE5DB93AD2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallOfNat", "CallOfNat\CallOfNat.csproj", "{9EAA0C75-3596-41C3-B9EF-E024A0C85531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B149559-7C00-4CE4-8290-9BF31BCD3863}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{2B149559-7C00-4CE4-8290-9BF31BCD3863}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{2B149559-7C00-4CE4-8290-9BF31BCD3863}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{2B149559-7C00-4CE4-8290-9BF31BCD3863}.Release|anycpu.Build.0 = Release|Any CPU
+		{2EC9FD10-B352-4B8A-83A0-C2CD72090C39}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{2EC9FD10-B352-4B8A-83A0-C2CD72090C39}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{2EC9FD10-B352-4B8A-83A0-C2CD72090C39}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{2EC9FD10-B352-4B8A-83A0-C2CD72090C39}.Release|anycpu.Build.0 = Release|Any CPU
+		{42EECF2A-5518-469D-899E-CBE5DB93AD2B}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{42EECF2A-5518-469D-899E-CBE5DB93AD2B}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{42EECF2A-5518-469D-899E-CBE5DB93AD2B}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{42EECF2A-5518-469D-899E-CBE5DB93AD2B}.Release|anycpu.Build.0 = Release|Any CPU
+		{9EAA0C75-3596-41C3-B9EF-E024A0C85531}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{9EAA0C75-3596-41C3-B9EF-E024A0C85531}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{9EAA0C75-3596-41C3-B9EF-E024A0C85531}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{9EAA0C75-3596-41C3-B9EF-E024A0C85531}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.VersionControlPolicy = $2
+	EndGlobalSection
+EndGlobal

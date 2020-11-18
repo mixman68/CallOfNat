@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallOfNat.Interfaces", "CallOfNat.Interfaces\CallOfNat.Interfaces.csproj", "{23ED6D5C-F225-4054-A370-AEBE7E8C7001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallOfNat.Game.TestGame", "CallOfNat.Game.TestGame\CallOfNat.Game.TestGame.csproj", "{2BA664B0-7181-46D5-813A-308A909D3855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23ED6D5C-F225-4054-A370-AEBE7E8C7001}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{23ED6D5C-F225-4054-A370-AEBE7E8C7001}.Debug|anycpu.Build.0 = Debug|anycpu
+		{23ED6D5C-F225-4054-A370-AEBE7E8C7001}.Release|anycpu.ActiveCfg = Release|anycpu
+		{23ED6D5C-F225-4054-A370-AEBE7E8C7001}.Release|anycpu.Build.0 = Release|anycpu
+		{2BA664B0-7181-46D5-813A-308A909D3855}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{2BA664B0-7181-46D5-813A-308A909D3855}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{2BA664B0-7181-46D5-813A-308A909D3855}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{2BA664B0-7181-46D5-813A-308A909D3855}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
